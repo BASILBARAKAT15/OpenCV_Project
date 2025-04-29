@@ -1,5 +1,5 @@
 
-# Online Python - IDE, Editor, Compiler, Interpreter
+
 
 import cv2
 import numpy as np

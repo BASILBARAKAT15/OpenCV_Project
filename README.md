@@ -1,4 +1,3 @@
-# README.md
 
 # OpenCV Video Processing Project
 
